@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marta.c.g.soares@gmail.com
+	name = martadaconceicao
